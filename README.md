@@ -4,7 +4,7 @@ Welcome to my **Stardew Valley Wiki project**, a community-driven reference site
 
 The goal of this wiki is simple: make Stardew Valley mechanics, systems, and content easier to understand without filler, clutter, or outdated info.
 
-👉 Visit the main site here: **https://stardew.wiki/**
+👉 Visit the main site here: [stardew.wiki](/https://stardew.wiki/)
 
 ---
 
