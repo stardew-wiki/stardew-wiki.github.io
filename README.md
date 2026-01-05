@@ -4,7 +4,7 @@ Welcome to my **Stardew Valley Wiki project**, a community-driven reference site
 
 The goal of this wiki is simple: make Stardew Valley mechanics, systems, and content easier to understand without filler, clutter, or outdated info.
 
-👉 Visit the main site here: [stardew.wiki](/https://stardew.wiki/)
+👉 Visit the main site here: [stardew.wiki](https://stardew.wiki/)
 
 ---
 
@@ -43,7 +43,7 @@ The site is built as a **reference-first wiki**, not a news blog or content farm
 This GitHub Pages site exists to document, describe, and link to the main Stardew Valley Wiki project. It also serves as a public reference point for development notes, structure decisions, and future expansions.
 
 If you’re looking for the actual wiki content, head here:  
-➡️ [stardew.wiki](/https://stardew.wiki/)
+➡️ [stardew.wiki](https://stardew.wiki/)
 
 ---
 
