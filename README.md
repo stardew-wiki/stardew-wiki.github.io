@@ -9,6 +9,7 @@ The goal of this wiki is simple: make Stardew Valley mechanics, systems, and con
 ---
 
 ## What This Wiki Covers
+![Stardew Valley Wiki Banner](https://github.com/stardew-wiki/stardew-wiki.github.io/blob/main/stardew-valley.jpg?raw=true) 
 
 The wiki documents both core and advanced aspects of Stardew Valley, including:
 
