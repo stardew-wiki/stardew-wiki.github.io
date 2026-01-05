@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="https://github.com/stardew-wiki/stardew-wiki.github.io/blob/main/stardew_icon.png">
+<link rel="shortcut icon" type="image/png" href="https://github.com/stardew-wiki/stardew-wiki.github.io/blob/main/stardew_icon.png">
 
 # Stardew Valley Wiki – Community Resource & Guides
 
