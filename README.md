@@ -43,7 +43,7 @@ The site is built as a **reference-first wiki**, not a news blog or content farm
 This GitHub Pages site exists to document, describe, and link to the main Stardew Valley Wiki project. It also serves as a public reference point for development notes, structure decisions, and future expansions.
 
 If you’re looking for the actual wiki content, head here:  
-➡️ **https://stardew.wiki/**
+➡️ [stardew.wiki](/https://stardew.wiki/)
 
 ---
 
